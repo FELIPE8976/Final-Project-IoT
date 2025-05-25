@@ -1,0 +1,26 @@
+# Certificados y claves privadas
+*.pem
+*.crt
+*.key
+
+# Carpetas de certificados (opcional)
+certificates/
+**/certificates/
+
+# Archivos de log
+*.log
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/editor config
+.vscode/
+.idea/
+.DS_Store
+
+# Entornos virtuales
+venv/
+.env/
