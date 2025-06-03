@@ -6,6 +6,8 @@
 # Carpetas de certificados (opcional)
 certificates/
 **/certificates/
+aws-iot-device-sdk-python-v2/
+**/aws-iot-device-sdk-python-v2/
 
 # Archivos de log
 *.log
