@@ -1,9 +1,9 @@
 # Gestión de Almacenes Industriales con IoT
 
 ## Equipo de Desarrollo
-- **Willian Chapid**
-- **Carlos Camacho**
-- **Luis Martinez**
+- **[Willian Chapid](https://github.com/Wislian/)**
+- **[Carlos Camacho](https://github.com/ccamacho02)**
+- **[Luis Martinez](https://github.com/FELIPE8976/)**
 
 ## Descripción del Proyecto
 
